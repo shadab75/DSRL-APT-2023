@@ -1,6 +1,6 @@
 # DSRL-APT-2023: A New Synthetic Dataset For Advanced Persistent Threats
 
-**[Link to Article on ResearchGate](https://www.researchgate.net/publication/385202137_DSRL-APT-2023_A_New_Synthetic_Dataset_For_Advanced_Persistent_Threats?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19)**
+**[Link to Article on Journal](https://www.isecure-journal.com/article_214212.html)**
 
 ## Abstract
 
