@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Shadabfar"
+  given-names: "Hossein"
+  orcid: ""
+- family-names: "Dehghan"
+  given-names: "Motahareh"
+  orcid: ""
+- family-names: "Sadeghian"
+  given-names: "Babak"
+  orcid: ""
+title: "DSRL-APT-2023: A New Synthetic Dataset For Advanced Persistent Threats"
+version: 1.0.0
+date-released: TBC
+url: "https://github.com/shadab75/DSRL-APT-2023"
